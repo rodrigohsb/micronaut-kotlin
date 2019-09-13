@@ -1,0 +1,9 @@
+micronaut:
+    application:
+        name: micronaut-kotlin-couroutines
+    server:
+        port: 8080
+
+db:
+    micronaut-db:
+        pass: qsz8woiN12Ob0mGf
